@@ -30700,7 +30700,7 @@ this.pa()},
 pa(){var s=0,r=A.R(t.H),q
 var $async$pa=A.N(function(a,b){if(a===1)return A.O(b,r)
 while(true)switch(s){case 0:s=2
-return A.V(A.anj(A.eE("http://chase.dothome.co.kr/admin/api/p_list.php")),$async$pa)
+return A.V(A.anj(A.eE("/admin/api/p_list.php")),$async$pa)
 case 2:q=b
 A.wm(A.an6(A.alj(q.e)).dh(q.w))
 return A.P(null,r)}})
